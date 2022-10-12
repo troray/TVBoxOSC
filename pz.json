@@ -2,7 +2,7 @@
 
 "spider":"https://xn--m7r412advb92j21st65a.tk/vod;md5;4557d6e0774da16484b31c2ad0a98c4b",
 "wallpaper":"https://壁纸.神器每日推送.tk",
-"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://xn--m7r412advb92j21st65a.tk/live.txt"]}]}],
+"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["https://xn--m7r412advb92j21st65a.tk/live.txt"]}]}],
 
 "sites":[
 {"key":"csp_Bili","name":"🅱哔哩合集","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://xn--m7r412advb92j21st65a.tk/json/bilibili.json"},
